@@ -2055,7 +2055,7 @@ span {
     font-size: 17px;
   }
   .item .team-img {
-    width: 30% !important;
+    width: 100% !important;
   }
   .team-owl .owl-prev span {
     left: 1%;
